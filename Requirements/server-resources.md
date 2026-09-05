@@ -10,7 +10,7 @@
 | **Windows Endpoint** (OS + EDR agent) | Regular workstation running the EDR agent | 2–4 cores | 8–16 GB total (agent itself only adds ~200–300 MB on top) | Local disk, not central server storage | 
 | **Linux Endpoint** (OS + EDR agent) | Regular workstation/server running the EDR agent | 1–4 cores | 2–8 GB total (agent itself only adds ~100–200 MB on top) | Local disk, not central server storage | 
 
-## Sum of Averages (per single instance of each row)
+## Sum of Averages
 
 | Item | Avg CPU (cores) | Avg RAM (GB) |
 |---|---|---|
