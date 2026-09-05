@@ -2,7 +2,7 @@
 
 # Security Solution Resource Requirements
 
-| Solution | Role | CPU | RAM | Storage | Notes |
+| Solution | Role | CPU | RAM | Storage |
 |---|---|---|---|---|---|
 | **Splunk SIEM** | Log collection, indexing, correlation, search | 8–16+ cores (scales with log volume) | 32–64 GB | Fast NVMe/SSD, RAID10 — (scales with log volume) | Heaviest component |
 | **FortiGate Firewall** | Perimeter security, traffic inspection | 2–4 cores | 4–8 GB | Minimal | - |
