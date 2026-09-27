@@ -13,5 +13,6 @@
 | -------------------- | -------------------------------------------------------------------------------------------------- |
 | FortiGate            | https://www.youtube.com/playlist?list=PLuAmHWtEqECumCpFNlhrXbTX-yErP3kqR                           |
 | F5 BIG-IP WAF        | https://www.udemy.com/course/big-ip-local-traffic-managerltm-v16-training                          |
+|                      | https://youtube.com/playlist?list=PLLlr6jKKdyK0CfWRNPQy9z-yqJwR8VAFW                               |
 | SIEM                 | TBD                                                                                                |
 | EDR                  | TBD                                                                                                |
