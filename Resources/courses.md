@@ -1,12 +1,10 @@
-<img width="1088" height="568" alt="image" src="https://github.com/user-attachments/assets/48882d5b-7ec5-4b48-9226-511cc17ad65e" /># Graduation Project Resources
-
 ## Courses
 
 | Topic                | Resource                                                                                           |
 | -------------------- | -------------------------------------------------------------------------------------------------- |
 | CCNA                 | https://www.youtube.com/playlist?list=PLyDiLBk6tDH48IAmjAfH8OhrIeTSf23id                           |
 | Active Directory     | https://youtube.com/playlist?list=PLVYsVvv9O3sqogZZ3AfClgm67cvMDdPx7                               |
-
+<br>
 
 ## Security Solutions
 
@@ -20,7 +18,7 @@
 |                      | https://www.udemy.com/course/splunk-enterprise-certified-admin-splk-1003-course                    |
 | ClearPass NAC        | TBD                                                                                                |
 | EDR                  | TBD                                                                                                |
-
+<br>
 
 ## Additional Solutions
 
@@ -28,6 +26,6 @@
 | -------------------- | -------------------------------------------------------------------------------------------------- |
 | Forti Manager        | TBD |
 | Trend Micro IPS      | TBD |
-
+<br>
 
 ![](image.png)
