@@ -4,6 +4,7 @@
 | -------------------- | -------------------------------------------------------------------------------------------------- |
 | CCNA                 | https://www.youtube.com/playlist?list=PLyDiLBk6tDH48IAmjAfH8OhrIeTSf23id                           |
 | Active Directory     | https://youtube.com/playlist?list=PLVYsVvv9O3sqogZZ3AfClgm67cvMDdPx7                               |
+| eCIR                 | https://netriders.academy/all-courses/incident-response                                            |
 <br>
 
 ## Security Solutions
